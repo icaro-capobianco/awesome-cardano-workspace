@@ -7,12 +7,14 @@
 ## What does it do?
 As a workspace, it allows the development of libraries and projects at the same time, so you can install a library on `/libraries` directory as a dependency to your project, preferably kept at `/projects`
 
-As a monorepo it agregates many libraries and projects of the community in one place.
+As a monorepo it aggregates many libraries and projects of the community in one place.
 
 ## How does it work?
 Once you run `pnpm install`, it's going to check on the workspace directories `/libraires` and `/projects` for the existing dependencies, if it finds it, instead of installing the dependency from npm it's going to create a symlink (shortcut) on your /node_modules linking to that package path. So you can develop both at the same time.
 
 As a monorepo it just has a bunch of submodules which I am going to maintain for the community.
+
+*Although it's called a monorepo all the other projects will be kept as submodules, so not I won't be copying people's code over, that would be ridiculous.
 
 # Getting started
 
