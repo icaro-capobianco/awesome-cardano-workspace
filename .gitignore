@@ -4,7 +4,5 @@ yarn.lock
 .pnp.js
 .vscode
 pnpm-lock.yaml
-libraries/*
 !libraries/.gitkeep
-projects/*
 !projects/.gitkeep
