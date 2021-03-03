@@ -10,6 +10,7 @@
 		]
 	},
 	"scripts": {
+		"init-all" : "git submodule update --recursive --init --remote && echo remember to checkout to a branch before making changes and commits"
 	},
 	"dependencies": {
 		"lerna": "^3.22.1"
