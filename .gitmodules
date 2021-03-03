@@ -2,3 +2,4 @@
 	path = libraries/cardano-meta-handler
 	url = https://github.com/repsistance/cardano-meta-handler
 	ignore = dirty
+	branch = main
