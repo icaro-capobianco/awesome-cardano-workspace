@@ -1,0 +1,10 @@
+node_modules
+yarn.lock
+.yarn
+.pnp.js
+.vscode
+pnpm-lock.yaml
+libraries/*
+!libraries/.gitkeep
+projects/*
+!projects/.gitkeep
