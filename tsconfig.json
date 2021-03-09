@@ -21,9 +21,7 @@
 		"noUnusedParameters": true,
 		"noImplicitReturns": true,
 		"noFallthroughCasesInSwitch": true,
-		"noUncheckedIndexedAccess": true,
-		"jsx": "react",
-		"jsxFactory": "h"
+		"noUncheckedIndexedAccess": true
 	},
 	"include": ["**/*"],
 	"exclude": ["node_modules", "lib", "**/*.test.ts", "**/*/__tests__"]
