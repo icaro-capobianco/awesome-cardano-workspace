@@ -14,7 +14,7 @@ Once you run `pnpm install`, it's going to check on the workspace directories `/
 
 As a monorepo it just has a bunch of submodules which I am going to maintain for the community.
 
-*Although it's called a monorepo all the other projects will be kept as submodules, so not I won't be copying people's code over, that would be ridiculous.
+*Although it's called a monorepo all the other projects will be kept as submodules, so no, I won't be copying people's code over, that would be ridiculous.
 
 # Getting started
 
