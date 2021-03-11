@@ -3,3 +3,13 @@
 	url = https://github.com/repsistance/cardano-meta-handler
 	ignore = dirty
 	branch = main
+[submodule "libraries/cardano-data-sdk"]
+	path = libraries/cardano-data-sdk
+	url = https://github.com/icaro-capobianco/cardano-data-sdk
+	ignore = dirty
+	branch = master
+[submodule "libraries/cardano-wallet-sdk"]
+	path = libraries/cardano-wallet-sdk
+	url = https://github.com/icaro-capobianco/cardano-wallet-sdk
+	ignore = dirty
+	branch = master
